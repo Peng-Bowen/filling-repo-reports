@@ -1,0 +1,4 @@
+interface:
+  display_name: "回购报表填写与核验"
+  short_description: "按报告日隔离填写、复算并核验资管产品正逆回购周报和月报"
+  default_prompt: "使用 $filling-repo-reports 根据这些源文件填写并核验回购周报或月报。"
